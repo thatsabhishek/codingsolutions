@@ -1,4 +1,7 @@
-.title{
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
+.topnav{
+    display: flex;
+    background-color: aqua;
+    justify-content: space-between;
+    align-items:center;
 }
+
